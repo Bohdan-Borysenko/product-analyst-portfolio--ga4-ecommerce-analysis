@@ -90,3 +90,10 @@ GROUP BY days_since_first
 ORDER BY days_since_first;
 ```
 --[<img width="310" height="138" alt="Снимок экрана 2025-12-14 в 23 48 30" src="https://github.com/user-attachments/assets/e40d8e72-0e46-476f-9c54-534e63cd5f4d" />]--
+
+## Insights
+
+- CR = 1.25% (low for e-commerce).
+- Retention D1 = 6.4% (norm 10–15%).
+- Mobile CR lover desktop на 40%.
+- 70% drop between view_item и add_to_cart.
